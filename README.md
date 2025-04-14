@@ -1,7 +1,7 @@
 # Hotel Booking System
 
 ## Project Overview
-A simple hotel booking system built in C++ that allows users to manage room bookings, check-in, check-out, and bill generation for various room types (Deluxe, Normal, and Presidential).
+Welcome to **Five Ninja Hotel**, a simple hotel booking system built in C++ that allows users to manage room bookings, check-in, check-out, and bill generation for various room types (Deluxe, Normal, and Presidential).
 
 ## Features
 - **Room Availability**: Check available rooms for each room type.
